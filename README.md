@@ -2,8 +2,7 @@
 
 
 
-**SciBench** is a novel benchmark for college-level scientific problems consisting of _695_
-problems sourced from instructional textbooks. The benchmark is designed to evaluate the complex reasoning capabilities,
+**SciBench** is a novel benchmark for college-level scientific problems sourced from instructional textbooks. The benchmark is designed to evaluate the complex reasoning capabilities,
 strong domain knowledge, and advanced calculation skills of LLMs. 
 
 ![Alt text](assets/table.jpeg)
