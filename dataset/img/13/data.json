@@ -1,0 +1,1 @@
+{"problem_text": "5.3-1 II. Let $X_1, X_2, X_3$ be three independent random variables with binomial distributions $b(4,1 / 2), b(6,1 / 3)$, and $b(12,1 / 6)$, respectively. Find\r\n(a) $P\\left(X_1=2, X_2=2, X_3=5\\right)$.\r\n", "answer_latex": " $0.0035$", "answer_number": "0.0035", "unit": " ", "source": "stat", "problemid": " 5.3-11 (a)", "comment": " "}

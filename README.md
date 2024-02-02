@@ -14,11 +14,11 @@ capabilities. This process offers a fine-grained understanding of where the mode
 ![Alt text](assets/example.jpg)
 
 The SciBench dataset is under dataset/original folder in json file format. Each file is list of dictionary and can be extracted using following scripts.
-Each file stands for one textbook, which is fully elaborated in the paper. 
+Each file stands for one textbook, which is fully elaborated in the paper. The multimodal subset is under dataset/img folder. 
 
 ```
 subject='atkins'
-with open("./data/{}.json".format(subject), encoding='utf-8') as json_file:
+with open("./data/original/{}.json".format(subject), encoding='utf-8') as json_file:
     problems=json.load(json_file)
 
 ```
